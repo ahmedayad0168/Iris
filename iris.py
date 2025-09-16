@@ -19,7 +19,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix, classification_rep
 # data = pd.DataFrame(iris.data, columns=iris.feature_names)
 
 # Option 2: load from CSV
-data = pd.read_csv('D:/Learn Machine Learning/datasets/Classification/Iris.csv')
+data = pd.read_csv('Iris.csv')
 
 # ===============================
 # Split Features & Labels
@@ -118,3 +118,4 @@ print("="*50)
 print(" Random Forest Cross Validation ".center(50, "-"))
 print("Scores:", scores_rf)
 print("Mean Accuracy:", scores_rf.mean())
+
