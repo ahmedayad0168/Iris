@@ -1,4 +1,4 @@
-# 🌸 Iris Classification with Logistic Regression & Random Forest
+# Iris Classification with Logistic Regression & Random Forest
 
 This project demonstrates a **classification task** using two popular machine learning models:  
 - **Logistic Regression**  
@@ -9,7 +9,7 @@ The code also includes **data visualization, evaluation metrics, and cross-valid
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 - **Data Loading**: Load Iris dataset from CSV or sklearn datasets.  
 - **Preprocessing**: Split features (X) and labels (y).  
 - **Model Training**: Train Logistic Regression and Random Forest models.  
@@ -19,7 +19,7 @@ The code also includes **data visualization, evaluation metrics, and cross-valid
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 Make sure you have Python installed (>=3.8).  
 Install dependencies using:
 
